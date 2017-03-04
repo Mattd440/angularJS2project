@@ -1,0 +1,14 @@
+img{
+  width:100%;
+  margin-top:35px;
+  z-index:-1;
+}
+.mainTitle{
+  font-size:68px;
+  color: #1a81d8;
+  font-family: Calibri, Arial;
+  font-weight: 700;
+  margin-left:100px;
+  margin-top:-150px;
+
+}
