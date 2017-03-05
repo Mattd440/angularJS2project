@@ -1,0 +1,32 @@
+.aboutWrapper{
+  background-color: rgba(246,244,235,0.81);
+}
+
+h1{
+  text-align:center;
+  background-color: coral;
+  padding:12px;
+  margin-bottom:12px;
+}
+.aboutImgBox{
+  width:100%;
+  display:inline-block;
+  margin:8px;
+  margin-bottom:16px;
+}
+
+.aboutImgBox img{
+  float:left;
+  width:25%;
+  height:120px;
+  margin-right:10px;
+  border-radius: 25% 10% 25% 10%;
+}
+
+.imgText {
+  text-wrap: normal;
+  float:right;
+  padding:8px;
+  width: 60%;
+  margin-right:8px;
+}

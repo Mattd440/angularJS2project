@@ -8,9 +8,9 @@ import { Component, OnInit } from '@angular/core';
 export class HomeImageBoxesComponent implements OnInit {
   imageData = [
     {title : "5 Star Resorts ",image:"beach1.jpg", description: "Worlds Best Resorts in 12 Countries"},
-    {title : "Carribean Cruises ",image:"beach1.jpg", description: "Sail away today to Jaaicas, The bahamas and more "},
+    {title : "Carribean Cruises ",image:"beach1.jpg", description: "Sail away today to Jamaicas or The Bahamas"},
     {title : "Reserve",image:"beach1.jpg", description: "Reserve Today To Guarantee Your Perfect Trip"},
-    {title : "About Us",image:"beach1.jpg", description: "Learn More About Us Here at Dream Vacations and Cruises "},
+    {title : "About Us",image:"beach1.jpg", description: "Learn More About Us Here at Dream Vacations"},
 
   ];
   constructor() { }
